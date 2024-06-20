@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+🔭 I’m currently working on ...
 <a href="https://www.linkedin.com/in/mehmet-ali-meşe-5a6851293">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/mehmet-ali-meşe-5a6851293" width="150" height="50"/>
 </a>
