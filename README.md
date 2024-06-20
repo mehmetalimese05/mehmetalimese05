@@ -11,6 +11,11 @@
 <a href="https://dotnet.microsoft.com/">
   <img src="https://img.shields.io/badge/-.NET_Core-512BD4?style=for-the-badge&labelColor=512BD4&logo=.net&logoColor=white" alt=".NET Core"/>
 </a>
+<br/>
+<a href="https://www.microsoft.com/en-us/sql-server">
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=CC2927&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL Server"/>
+</a>
+
 
 <!--
 **mehalimes/mehalimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
