@@ -7,6 +7,11 @@
 <a href="https://www.leetcode.com/u/mehalimes">
   <img src="https://img.shields.io/badge/-LeetCode-ff8c00?style=for-the-badge&labelColor=ff8c00&logo=LeetCode&logoColor=white"  alt="https://www.leetcode.com/u/mehalimes"/>
 </a>
+
+<a href="https://codeforces.com/profile/mehalimes">
+  <img src="https://run.kaist.ac.kr/badges/codeforces/jo_on.svg"  alt="https://codeforces.com/profile/mehalimes"/>
+</a>
+
 <!--
 **mehalimes/mehalimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
