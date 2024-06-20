@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 <a href="https://www.linkedin.com/in/mehmet-ali-meşe-5a6851293">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/daltonlima"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/mehmet-ali-meşe-5a6851293"/>
 </a>
 
 <a href="https://www.leetcode.com/u/mehalimes">
-  <img src="https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white"  alt="https://www.leetcode.com/u/mehalimes"/>
+  <img src="https://img.shields.io/badge/-LeetCode-ff8c00?style=for-the-badge&labelColor=ff8c00&logo=LeetCode&logoColor=white"  alt="https://www.leetcode.com/u/mehalimes"/>
 </a>
 <!--
 **mehalimes/mehalimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
