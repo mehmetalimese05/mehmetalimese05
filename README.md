@@ -16,6 +16,11 @@
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=CC2927&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL Server"/>
 </a>
 
+<a href="https://codeforces.com/">
+  <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&labelColor=1F8ACB&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+
+
 
 <!--
 **mehalimes/mehalimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
