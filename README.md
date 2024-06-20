@@ -8,7 +8,9 @@
   <img src="https://img.shields.io/badge/-LeetCode-ff8c00?style=for-the-badge&labelColor=ff8c00&logo=LeetCode&logoColor=white"  alt="https://www.leetcode.com/u/mehalimes"/>
 </a>
 
-![.NET Core](https://img.shields.io/badge/.NET%20Core-5.0-blue)
+<a href="https://dotnet.microsoft.com/">
+  <img src="https://img.shields.io/badge/-.NET_Core-512BD4?style=for-the-badge&labelColor=512BD4&logo=.net&logoColor=white" alt=".NET Core"/>
+</a>
 
 <!--
 **mehalimes/mehalimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
