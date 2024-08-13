@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=61DAFB&logo=React&logoColor=white" alt="React" width="150" height="50"/>
 </a>
 
+<a href="https://angular.io/">
+  <img src="https://img.shields.io/badge/-Angular-E23237?style=for-the-badge&labelColor=E23237&logo=Angular&logoColor=white" alt="Angular" width="150" height="50"/>
+</a>
+
 
 
 
