@@ -29,10 +29,6 @@
 <a href="https://angular.io/">
   <img src="https://img.shields.io/badge/-Angular-E23237?style=for-the-badge&labelColor=E23237&logo=Angular&logoColor=white" alt="Angular" width="150" height="50"/>
 </a>
-<a href="https://learn.microsoft.com/en-us/ef/">
-  <img src="https://img.shields.io/badge/-Entity%20Framework%20Core-512BD4?style=for-the-badge&labelColor=512BD4&logo=.net&logoColor=white" alt="Entity Framework Core" width="200" height="50"/>
-</a>
-
 
 
 
