@@ -12,10 +12,11 @@
   <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&labelColor=1F8ACB&logo=Codeforces&logoColor=white" alt="Codeforces" width="150" height="50"/>
 </a>
 
-<br/>
+
 <a href="https://dotnet.microsoft.com/">
   <img src="https://img.shields.io/badge/-.NET_Core-512BD4?style=for-the-badge&labelColor=512BD4&logo=.net&logoColor=white" alt=".NET Core" width="150" height="50"/>
 </a>
+<br/>
 <a href="https://www.microsoft.com/en-us/sql-server">
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=CC2927&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL Server" width="150" height="50"/>
 </a>
