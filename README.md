@@ -20,6 +20,10 @@
 <a href="https://www.microsoft.com/en-us/sql-server">
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=CC2927&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL Server" width="150" height="50"/>
 </a>
+<a href="https://www.microsoft.com/en-us/sql-server" style="display: inline-flex; align-items: center; text-decoration: none;">
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=CC2927&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" style="margin-right: 8px;"/>
+  <span style="color: white; font-weight: bold; font-size: 14px;">SQL Server</span>
+</a>
 
 
 
