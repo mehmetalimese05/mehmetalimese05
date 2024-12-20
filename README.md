@@ -29,6 +29,10 @@
 <a href="https://angular.io/">
   <img src="https://img.shields.io/badge/-Angular-E23237?style=for-the-badge&labelColor=E23237&logo=Angular&logoColor=white" alt="Angular" width="150" height="50"/>
 </a>
+<a href="https://www.rabbitmq.com/">
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&labelColor=FF6600&logo=rabbitmq&logoColor=white" alt="RabbitMQ" width="200" height="50"/>
+</a>
+
 
 
 
