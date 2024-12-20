@@ -17,8 +17,9 @@
   <img src="https://img.shields.io/badge/-.NET_Core-512BD4?style=for-the-badge&labelColor=512BD4&logo=.net&logoColor=white" alt=".NET Core" width="150" height="50"/>
 </a>
 <a href="https://www.microsoft.com/en-us/sql-server">
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=CC2927&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL Server" width="150" height="50"/>
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=CC2927&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1NiA1NiI+PHBhdGggZD0iTTMwLjQzNiAyMS4xNzZ2MTUuNDYyTDIzLjEzIDM1Ljc0N3YtMTUuNGE0LjUgNC41IDAgMCAxIDcuMzAzLTQuMDEyTDI5LjQzNiAxNy43djMuNDc2bDUuNjQtMi4xOGEuNTYuNTYgMCAwIDEuMjYxLjE5NnY4Ljc4NWEuNTcuNTcgMCAwIDEtLjI2MS41MTFsLTUuNTc1LTIuMDd6IiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+" alt="SQL Server" width="150" height="50"/>
 </a>
+
 
 <a href="https://reactjs.org/">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=61DAFB&logo=React&logoColor=white" alt="React" width="150" height="50"/>
