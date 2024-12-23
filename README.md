@@ -23,7 +23,8 @@
 <br/>
 
 <a href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/-React-white?style=for-the-badge&labelColor=000000&logo=React&logoColor=61DAFB" alt="React" width="80" height="
+  <img src="https://img.shields.io/badge/-React-white?style=for-the-badge&labelColor=000000&logo=React&logoColor=61DAFB" alt="React" width="80" height="27"/>
+</a>
 
 
 <a href="https://angular.io/">
