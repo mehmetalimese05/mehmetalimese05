@@ -1,15 +1,18 @@
 ## Hi there 👋
 ## 🌐 My Socials
-<a href="https://www.linkedin.com/in/mehmet-ali-meşe-5a6851293">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt="https://www.linkedin.com/in/mehmet-ali-meşe-5a6851293" width="80" height="27"/>
-</a>
-<a href="https://www.leetcode.com/u/mehalimes">
-  <img src="https://img.shields.io/badge/-LeetCode-ff8c00?style=for-the-badge&labelColor=ff8c00&logo=LeetCode&logoColor=white"  alt="https://www.leetcode.com/u/mehalimes" width="80" height="27"/>
+<a href="https://www.linkedin.com/in/mehmet-ali-meşe-5a6851293" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://codeforces.com/profile/mehalimes">
-  <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&labelColor=1F8ACB&logo=Codeforces&logoColor=white" alt="Codeforces" width="80" height="27"/>
+<a href="https://leetcode.com/u/mehalimes/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
+
+
+<a href="https://codeforces.com/profile/mehalimes" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F6B9B?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+
 
 ## 💻 My Tech Stack
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
