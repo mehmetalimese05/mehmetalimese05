@@ -15,12 +15,12 @@
 <a href="https://dotnet.microsoft.com/">
   <img src="https://img.shields.io/badge/-.NET_Core-512BD4?style=for-the-badge&labelColor=512BD4&logo=.net&logoColor=white" alt=".NET Core" width="100" height="32"/>
 </a>
-<br/>
+
 <a href="https://www.microsoft.com/en-us/sql-server">
   <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=CC2927&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL Server" width="100" height="32"/>
 </a>
 
-
+<br/>
 
 <a href="https://reactjs.org/">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=61DAFB&logo=React&logoColor=white" alt="React" width="100" height="32"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-Angular-E23237?style=for-the-badge&labelColor=E23237&logo=Angular&logoColor=white" alt="Angular" width="100" height="32"/>
 </a>
 <a href="https://www.rabbitmq.com/">
-  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&labelColor=FF6600&logo=rabbitmq&logoColor=white" alt="RabbitMQ" width="100" height="33"/>
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&labelColor=FF6600&logo=rabbitmq&logoColor=white" alt="RabbitMQ" width="100" height="32"/>
 </a>
 
 
