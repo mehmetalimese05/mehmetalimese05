@@ -19,10 +19,9 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server"/>
 </a>
-
-
-
-<br/>
+<a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
+</a>
 
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
