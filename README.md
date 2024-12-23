@@ -51,6 +51,13 @@
 <a href="https://redis.io/" target="_blank">
   <img src="https://img.shields.io/badge/Redis-D9321C?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </a>
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</a>
+
 
 
 
