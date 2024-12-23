@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://www.microsoft.com/en-us/sql-server">
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=CC2927&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL Server" width="80" height="27"/>
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&labelColor=CC2927&logo=Microsoft%20SQL%20Server&logoColor=white" alt="Microsoft SQL Server" width="80" height="27"/>
 </a>
 
 <br/>
