@@ -32,12 +32,14 @@
 </a>
 
 
-<a href="https://angular.io/">
-  <img src="https://img.shields.io/badge/-Angular-E23237?style=for-the-badge&labelColor=E23237&logo=Angular&logoColor=white" alt="Angular" width="80" height="27"/>
+<a href="https://angular.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </a>
-<a href="https://www.rabbitmq.com/">
-  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&labelColor=FF6600&logo=rabbitmq&logoColor=white" alt="RabbitMQ" width="80" height="27"/>
+
+<a href="https://www.rabbitmq.com/" target="_blank">
+  <img src="https://img.shields.io/badge/RabbitMQ-61D4B3?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
 </a>
+
 
 
 
