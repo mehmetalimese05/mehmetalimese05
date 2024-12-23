@@ -44,7 +44,6 @@
 <a href="https://www.rabbitmq.com/" target="_blank">
   <img src="https://img.shields.io/badge/RabbitMQ-61D4B3?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
 </a>
-<br/>
 <a href="https://www.nginx.com/" target="_blank">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 </a>
