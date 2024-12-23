@@ -1,4 +1,5 @@
-## Hi there 👋
+## ⚡ About Me
+adsfjad
 ## 🌐 My Socials
 <a href="https://www.linkedin.com/in/mehmet-ali-meşe-5a6851293" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
