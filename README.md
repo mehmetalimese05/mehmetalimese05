@@ -12,9 +12,10 @@
 </a>
 
 ## 💻 My Tech Stack
-<a href="https://dotnet.microsoft.com/">
-  <img src="https://img.shields.io/badge/-.NET_Core-512BD4?style=for-the-badge&labelColor=512BD4&logo=.net&logoColor=white" alt=".NET Core" width="80" height="27"/>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core"/>
 </a>
+
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server"/>
