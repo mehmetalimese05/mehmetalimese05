@@ -23,8 +23,9 @@
 <br/>
 
 <a href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=61DAFB&logo=React&logoColor=white" alt="React" width="80" height="27"/>
+  <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&labelColor=000000&logo=React&logoColor=0000FF" alt="React" width="80" height="27"/>
 </a>
+
 
 <a href="https://angular.io/">
   <img src="https://img.shields.io/badge/-Angular-E23237?style=for-the-badge&labelColor=E23237&logo=Angular&logoColor=white" alt="Angular" width="80" height="27"/>
