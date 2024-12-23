@@ -1,5 +1,5 @@
 ## ⚡ About Me
-adsfjad
+My name is Mehmet Ali Meşe, a second-year Computer Engineering student at Van Yüzüncü Yıl University with a GPA of 2,88 / 4. I graduated from İpekyolu Borsa İstanbul Science High School with a diploma score of 96,96 / 100 and ranked in the top 88.000 in the national university entrance exam. I am currently focused on full-stack development, specializing in .NET Core and Angular, where I aim to further enhance my technical skills and knowledge in software development.
 ## 🌐 My Socials
 <a href="https://www.linkedin.com/in/mehmet-ali-meşe-5a6851293" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
