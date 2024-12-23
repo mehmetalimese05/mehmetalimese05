@@ -35,7 +35,7 @@
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </a>
-
+<br/>
 
 <a href="https://angular.io/" target="_blank">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
@@ -54,6 +54,7 @@
 <a href="https://nextjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 </a>
+<br/>
 <a href="https://tailwindcss.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </a>
@@ -69,6 +70,7 @@
 <a href="https://redux.js.org/" target="_blank">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 </a>
+<br/>
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </a>
@@ -78,7 +80,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </a>
-<br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
 </a>
