@@ -22,9 +22,10 @@
 
 <br/>
 
-<a href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/-React-FFFFFF?style=for-the-badge&labelColor=808080&logo=React&logoColor=FFFFFF" alt="React" width="80" height="27"/>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </a>
+
 
 
 <a href="https://angular.io/">
