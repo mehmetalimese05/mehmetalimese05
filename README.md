@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&labelColor=1F8ACB&logo=Codeforces&logoColor=white" alt="Codeforces" width="100" height="33"/>
 </a>
 
-
+## 💻 My Tech Stack
 <a href="https://dotnet.microsoft.com/">
   <img src="https://img.shields.io/badge/-.NET_Core-512BD4?style=for-the-badge&labelColor=512BD4&logo=.net&logoColor=white" alt=".NET Core" width="100" height="32"/>
 </a>
