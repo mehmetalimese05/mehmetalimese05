@@ -26,11 +26,11 @@ My name is Mehmet Ali MeÅŸe, a third-year Computer Engineering student at Van YÃ
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </a>
-
+<br/>
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </a>
-<br/>
+
 
 <a href="https://angular.io/" target="_blank">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
