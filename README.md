@@ -42,10 +42,11 @@ My name is Mehmet Ali MeÅŸe, a third-year Computer Engineering student at Van YÃ
 <a href="https://redis.io/" target="_blank">
   <img src="https://img.shields.io/badge/Redis-D9321C?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </a>
+<br/>
 <a href="https://tailwindcss.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </a>
-<br/>
+
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </a>
