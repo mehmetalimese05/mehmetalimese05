@@ -9,12 +9,6 @@ My name is Mehmet Ali MeÅŸe, a third-year Computer Engineering student at Van YÃ
   <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
-
-<a href="https://codeforces.com/profile/mehalimes" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F6B9B?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-</a>
-
-
 ## ğŸ’» My Tech Stack
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
   <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core"/>
@@ -45,9 +39,6 @@ My name is Mehmet Ali MeÅŸe, a third-year Computer Engineering student at Van YÃ
 <a href="https://www.rabbitmq.com/" target="_blank">
   <img src="https://img.shields.io/badge/RabbitMQ-61D4B3?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
 </a>
-<a href="https://www.nginx.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-</a>
 <a href="https://redis.io/" target="_blank">
   <img src="https://img.shields.io/badge/Redis-D9321C?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </a>
@@ -57,9 +48,6 @@ My name is Mehmet Ali MeÅŸe, a third-year Computer Engineering student at Van YÃ
 <br/>
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</a>
-<a href="https://getbootstrap.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </a>
 <a href="https://jwt.io/" target="_blank">
   <img src="https://img.shields.io/badge/JSON%20Web%20Token-000000?style=for-the-badge&logo=json-web-token&logoColor=white" alt="JWT"/>
