@@ -1,5 +1,5 @@
 ## ⚡ About Me
-My name is Mehmet Ali Meşe, a third-year Computer Engineering student at Van Yuzuncu Yil University with a GPA of 3,08 / 4. I am currently focused on full-stack development, specializing in ASP.NET Core and Angular, where I aim to further enhance my technical skills and knowledge in software development.
+My name is Mehmet Ali Mese, a third-year Computer Engineering student at Van Yuzuncu Yil University with a GPA of 3,08 / 4. I am currently focused on full-stack development, specializing in ASP.NET Core and Angular, where I aim to further enhance my technical skills and knowledge in software development.
 ## 🌐 My Socials
 <a href="https://www.linkedin.com/in/mehmetalimese05/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
